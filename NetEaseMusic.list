@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,iadmat.nosdn.127.net
 DOMAIN-SUFFIX,netease.ugcvideoss.ourdvs.com
 DOMAIN-SUFFIX,music.126.com
 DOMAIN-SUFFIX,music.126.net
+DOMAIN-KEYWORD,netease
 IP-CIDR,59.111.128.0/17,no-resolve
 IP-CIDR,103.126.92.13/32,no-resolve
 IP-CIDR,115.236.112.0/20,no-resolve
